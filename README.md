@@ -18,7 +18,7 @@ set -g @plugin 'Peanutt42/github-dark-contrast-theme.tmux'
 
 Manually:
 
-1. Copy contents of `./github_dark_contrast.tmux` into your `~/.tmux.conf` or `~/.config/tmux/tmux.conf`
+1. Copy contents of `./github_dark_contrast.conf` into your `~/.tmux.conf` or `~/.config/tmux/tmux.conf`
 2. Reload your tmux configuration (for ex. with `tmux source-file ~/.tmux.conf`)
 
 <br>
